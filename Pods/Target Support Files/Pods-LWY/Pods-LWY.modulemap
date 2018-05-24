@@ -1,0 +1,6 @@
+framework module Pods_LWY {
+  umbrella header "Pods-LWY-umbrella.h"
+
+  export *
+  module * { export * }
+}
